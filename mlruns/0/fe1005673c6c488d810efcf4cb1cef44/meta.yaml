@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/fe1005673c6c488d810efcf4cb1cef44/artifacts
+end_time: 1742319599470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe1005673c6c488d810efcf4cb1cef44
+run_name: clumsy-doe-560
+run_uuid: fe1005673c6c488d810efcf4cb1cef44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742319592774
+status: 3
+tags: []
+user_id: manoj-singh

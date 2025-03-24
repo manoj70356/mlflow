@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4cda2eaf42fd46c59e81ae478d02e9e7/artifacts
+deleted_time: 1742319631949
+end_time: 1742319518418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4cda2eaf42fd46c59e81ae478d02e9e7
+run_name: polite-hen-762
+run_uuid: 4cda2eaf42fd46c59e81ae478d02e9e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742319510989
+status: 3
+tags: []
+user_id: manoj-singh

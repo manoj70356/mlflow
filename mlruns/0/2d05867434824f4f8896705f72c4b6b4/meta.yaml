@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/2d05867434824f4f8896705f72c4b6b4/artifacts
+deleted_time: 1742319631946
+end_time: 1742318597364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2d05867434824f4f8896705f72c4b6b4
+run_name: skillful-stoat-256
+run_uuid: 2d05867434824f4f8896705f72c4b6b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742318543125
+status: 3
+tags: []
+user_id: manoj-singh

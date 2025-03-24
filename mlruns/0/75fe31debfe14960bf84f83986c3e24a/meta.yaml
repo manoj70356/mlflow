@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/75fe31debfe14960bf84f83986c3e24a/artifacts
+end_time: 1742317538278
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75fe31debfe14960bf84f83986c3e24a
+run_name: indecisive-shad-384
+run_uuid: 75fe31debfe14960bf84f83986c3e24a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742317467011
+status: 3
+tags: []
+user_id: manoj-singh

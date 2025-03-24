@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/967e43b6ab494b7cb4a19607345a7363/artifacts
+deleted_time: 1742319631949
+end_time: 1742319559225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 967e43b6ab494b7cb4a19607345a7363
+run_name: dashing-cat-499
+run_uuid: 967e43b6ab494b7cb4a19607345a7363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742319552581
+status: 3
+tags: []
+user_id: manoj-singh

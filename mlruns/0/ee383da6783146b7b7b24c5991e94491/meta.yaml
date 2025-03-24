@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ee383da6783146b7b7b24c5991e94491/artifacts
+deleted_time: 1742319631950
+end_time: 1742319405202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ee383da6783146b7b7b24c5991e94491
+run_name: skillful-hawk-957
+run_uuid: ee383da6783146b7b7b24c5991e94491
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742319396369
+status: 3
+tags: []
+user_id: manoj-singh

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a3d01e2198f74b35b3a0a25fa0965340/artifacts
+deleted_time: 1742319631948
+end_time: 1742319478700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a3d01e2198f74b35b3a0a25fa0965340
+run_name: dazzling-conch-851
+run_uuid: a3d01e2198f74b35b3a0a25fa0965340
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742319471653
+status: 3
+tags: []
+user_id: manoj-singh
