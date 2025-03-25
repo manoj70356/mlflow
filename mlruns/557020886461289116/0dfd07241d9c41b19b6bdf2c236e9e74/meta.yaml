@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/0dfd07241d9c41b19b6bdf2c236e9e74/artifacts
+end_time: 1742837267970
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: 0dfd07241d9c41b19b6bdf2c236e9e74
+run_name: honorable-jay-572
+run_uuid: 0dfd07241d9c41b19b6bdf2c236e9e74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742837267956
+status: 3
+tags: []
+user_id: manoj-singh

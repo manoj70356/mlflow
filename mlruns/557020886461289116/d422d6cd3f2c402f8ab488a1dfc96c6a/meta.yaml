@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/d422d6cd3f2c402f8ab488a1dfc96c6a/artifacts
+end_time: 1742836929473
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: d422d6cd3f2c402f8ab488a1dfc96c6a
+run_name: abundant-sow-399
+run_uuid: d422d6cd3f2c402f8ab488a1dfc96c6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742836929442
+status: 3
+tags: []
+user_id: manoj-singh

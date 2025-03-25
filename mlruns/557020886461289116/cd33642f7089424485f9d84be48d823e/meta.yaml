@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/cd33642f7089424485f9d84be48d823e/artifacts
+end_time: 1742837267912
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: cd33642f7089424485f9d84be48d823e
+run_name: efficient-shark-825
+run_uuid: cd33642f7089424485f9d84be48d823e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742837267568
+status: 3
+tags: []
+user_id: manoj-singh

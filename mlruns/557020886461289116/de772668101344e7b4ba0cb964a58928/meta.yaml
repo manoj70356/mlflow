@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/de772668101344e7b4ba0cb964a58928/artifacts
+end_time: 1742836929682
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: de772668101344e7b4ba0cb964a58928
+run_name: masked-shark-411
+run_uuid: de772668101344e7b4ba0cb964a58928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742836929667
+status: 3
+tags: []
+user_id: manoj-singh

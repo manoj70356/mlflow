@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/d894a915bfd64cca955b62d88e832460/artifacts
+end_time: 1742837268033
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: d894a915bfd64cca955b62d88e832460
+run_name: able-shrike-840
+run_uuid: d894a915bfd64cca955b62d88e832460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742837268022
+status: 3
+tags: []
+user_id: manoj-singh

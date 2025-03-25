@@ -28,7 +28,7 @@ grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1,
 # # Run without MLflow from here
 # grid_search.fit(X_train, y_train)
 
-# # # Displaying the best params and best score
+# # Displaying the best params and best score
 # best_params = grid_search.best_params_
 # best_score = grid_search.best_score_
 
@@ -80,7 +80,7 @@ with mlflow.start_run() as parent:
     mlflow.sklearn.log_model(grid_search.best_estimator_, "random_forest")
 
     # Set tags
-    mlflow.set_tag("author", "manoj singh")
+    mlflow.set_tag("author", "Vikash Das")
 
     print(best_params)
     print(best_score)

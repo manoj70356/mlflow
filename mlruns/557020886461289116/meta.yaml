@@ -1,0 +1,6 @@
+artifact_location: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116
+creation_time: 1742836914989
+experiment_id: '557020886461289116'
+last_update_time: 1742836914989
+lifecycle_stage: active
+name: breast-cancer-rf-hp

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/de73bf00a9604240b6aa638814f3ecb4/artifacts
+end_time: 1742836929487
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: de73bf00a9604240b6aa638814f3ecb4
+run_name: crawling-ram-652
+run_uuid: de73bf00a9604240b6aa638814f3ecb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742836929476
+status: 3
+tags: []
+user_id: manoj-singh

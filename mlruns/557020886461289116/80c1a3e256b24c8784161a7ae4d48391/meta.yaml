@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/80c1a3e256b24c8784161a7ae4d48391/artifacts
+end_time: 1742837267953
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: 80c1a3e256b24c8784161a7ae4d48391
+run_name: charming-bug-786
+run_uuid: 80c1a3e256b24c8784161a7ae4d48391
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742837267934
+status: 3
+tags: []
+user_id: manoj-singh

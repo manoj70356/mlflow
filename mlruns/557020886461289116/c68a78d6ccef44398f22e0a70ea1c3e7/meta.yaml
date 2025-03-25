@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/c68a78d6ccef44398f22e0a70ea1c3e7/artifacts
+end_time: 1742836981554
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: c68a78d6ccef44398f22e0a70ea1c3e7
+run_name: learned-snake-320
+run_uuid: c68a78d6ccef44398f22e0a70ea1c3e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742836920833
+status: 3
+tags: []
+user_id: manoj-singh

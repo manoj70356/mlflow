@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/ca46c7f3dd9c442a9f1d733c693707a9/artifacts
+end_time: 1742836929636
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: ca46c7f3dd9c442a9f1d733c693707a9
+run_name: gifted-finch-449
+run_uuid: ca46c7f3dd9c442a9f1d733c693707a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742836929625
+status: 3
+tags: []
+user_id: manoj-singh

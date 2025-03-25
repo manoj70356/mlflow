@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/95e9f14db7ac4d8e989c2cc3e9989739/artifacts
+end_time: 1742837268048
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: 95e9f14db7ac4d8e989c2cc3e9989739
+run_name: caring-dog-219
+run_uuid: 95e9f14db7ac4d8e989c2cc3e9989739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742837268035
+status: 3
+tags: []
+user_id: manoj-singh

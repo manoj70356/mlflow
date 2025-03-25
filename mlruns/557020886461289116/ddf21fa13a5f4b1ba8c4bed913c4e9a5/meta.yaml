@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/ddf21fa13a5f4b1ba8c4bed913c4e9a5/artifacts
+end_time: 1742837267986
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: ddf21fa13a5f4b1ba8c4bed913c4e9a5
+run_name: resilient-bee-991
+run_uuid: ddf21fa13a5f4b1ba8c4bed913c4e9a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742837267973
+status: 3
+tags: []
+user_id: manoj-singh

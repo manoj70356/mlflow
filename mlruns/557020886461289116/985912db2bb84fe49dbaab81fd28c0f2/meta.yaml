@@ -1,0 +1,15 @@
+artifact_uri: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/985912db2bb84fe49dbaab81fd28c0f2/artifacts
+end_time: 1742836929649
+entry_point_name: ''
+experiment_id: '557020886461289116'
+lifecycle_stage: active
+run_id: 985912db2bb84fe49dbaab81fd28c0f2
+run_name: peaceful-shoat-373
+run_uuid: 985912db2bb84fe49dbaab81fd28c0f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742836929639
+status: 3
+tags: []
+user_id: manoj-singh

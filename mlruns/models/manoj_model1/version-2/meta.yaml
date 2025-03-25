@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742840003841
+current_stage: None
+description: ''
+last_updated_timestamp: 1742840003841
+name: manoj_model1
+run_id: 591e3ec62a3148f8bf2498a6c044c6e9
+run_link: ''
+source: models:/manoj_model1/1
+status: READY
+status_message: null
+storage_location: file:///home/manoj-singh/MLop%27s/mlflow/mlruns/557020886461289116/591e3ec62a3148f8bf2498a6c044c6e9/artifacts/random_forest
+user_id: null
+version: 2
